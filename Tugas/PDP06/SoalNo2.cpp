@@ -26,7 +26,7 @@ int main(){
         sum = sum + nilai[i];
         i++;
     }
-    // cout << "Hasil: " << sum << endl;
-    cout << "Hasil: " << sum/n << endl;
+    cout << "Jumlah Nilai: " << sum << endl;
+    cout << "Nilai Rata Rata: " << sum/n << endl;
     return 0;
 }
